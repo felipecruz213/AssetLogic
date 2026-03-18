@@ -1,14 +1,14 @@
 # Arquivo: .gitignore
 
-# Banco de Dados (NUNCA envie os arquivos binários do MySQL)
+# Banco de Dados
 db_data/
 
-# Dependências do PHP (se usar Composer)
+# Dependências do PHP
 vendor/
 
 # Logs e arquivos temporários
 *.log
 .DS_Store
 
-# Configurações de ambiente com senhas (veremos abaixo)
+# Configurações de ambiente com senhas
 .env
