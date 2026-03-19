@@ -55,7 +55,7 @@ $categorias = $query_categorias->fetchAll();
 
     <nav class="navbar navbar-dark bg-dark mb-4 shadow-sm">
         <div class="container">
-            <a class="navbar-brand fw-bold" href="index.php">📦 AssetLogic</a>
+            <a class="navbar-brand fw-bold" href="index.php">AssetLogic</a>
         </div>
     </nav>
 
