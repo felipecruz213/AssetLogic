@@ -1,2 +1,2 @@
 # AssetLogic
-AssetLogic: Gestão inteligente de stock (ERP logic) com PHP (PDO), MySQL e Bootstrap.
+AssetLogic: CRUD simples de uma gestão de inventário com PHP (PDO), MySQL e Bootstrap.
