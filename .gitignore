@@ -12,3 +12,7 @@ vendor/
 
 # Configurações de ambiente com senhas
 .env
+
+#Arquivos do docker
+Dockerfile
+docker-compose.yml
